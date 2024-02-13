@@ -8,3 +8,5 @@ conda activate mchatbot
 
 # bash 
 pip install -r requirements.txt
+
+# import the required libraries
